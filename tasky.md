@@ -6,7 +6,7 @@
 
  # 1. User Accounts and Eligibility
 
-You must be at least 13 years of age to create an account and use the App. By creating an account, you represent and warrant that you are 13 years of age or older and have the legal capacity to enter into these Terms.
+You must be at least 18 years of age and above to create an account and use the App. By creating an account, you represent and warrant that you are 13 years of age or older and have the legal capacity to enter into these Terms.
 You are responsible for maintaining the confidentiality of your account credentials and are solely responsible for all activities that occur under your account.
 You agree to keep your account information accurate and up-to-date.
 # 2. Content and User Conduct
