@@ -1,6 +1,6 @@
 ## Terms and Conditions for TASKY
 
-#Welcome to TASKY!
+# Welcome to TASKY!
  
  These Terms and Conditions ("Terms") govern your access and use of the [Application Name] mobile application (the "App"). Please read these Terms carefully before accessing or using the App. By accessing or using the App, you agree to be bound by these Terms and our Privacy Policy, which is incorporated herein by reference. If you do not agree to these Terms, you may not access or use the App.
 
