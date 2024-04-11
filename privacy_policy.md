@@ -59,3 +59,4 @@ We may update this Privacy Policy from time to time to reflect changes in our da
 
 By using the App, you agree to the terms of this Privacy Policy.
 
+
