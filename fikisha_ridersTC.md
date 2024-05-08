@@ -2,76 +2,75 @@
 
 **1. Introduction**
 
-Welcome to Fikisha Riders ("App"). This document outlines the terms and conditions ("Terms") governing your use of the App as a rider in Kenya. By accessing or using the App, you agree to be bound by these Terms. If you disagree with any part of the Terms, you may not use the App.
+Welcome to Fikisha Riders ("Fikisha Riders", "we", "us", or "our").  These Terms and Conditions ("Terms") govern your access and use of the Fikisha Riders mobile application ("App") and related services (collectively, the "Services") offered by Fikisha Mashinani ("Fikisha Mashinani", "we", "us", or "our"). 
 
 **2. Eligibility**
 
-* You must be at least 18 years old and have the legal capacity to enter into a binding contract to use the App.
-* You must be a resident of Kenya.
-* You agree to provide accurate, complete, and up-to-date information about yourself during registration, including:
-    * Your official name as it appears on your government-issued ID.
-    * A clear copy of your valid Kenyan government-issued ID (e.g., National ID card, Passport).
-    * Your county, subcounty, and ward information.
+By using the Services, you represent and warrant that:
 
-**3. Account Registration and Security**
+* You are at least 18 years old and have the full legal capacity to enter into binding agreements.
+* You are a resident of Kenya.
+* You will use the Services in accordance with these Terms and all applicable laws and regulations.
 
-* You are responsible for maintaining the confidentiality of your account information, including your login credentials.
-* You are solely responsible for all activities that occur under your account.
-* You agree to immediately notify [Your Company Name] of any unauthorized use of your account or any other security breach.
+**3. Rider Registration**
 
-**4. Rider Conduct**
+To register as a Rider on the App, you must:
 
-* You agree to use the App in a respectful and lawful manner.
-* You agree to treat drivers with courtesy and respect.
-* You are prohibited from:
-    * Requesting or engaging in illegal activities.
-    * Damaging or tampering with drivers' vehicles.
-    * Providing false or misleading information.
-    * Behaving in a way that could endanger yourself, the driver, or others.
-    * Creating multiple accounts or impersonating others.
+* Use your official legal name as it appears on your government-issued ID.
+* Upload a clear and valid copy of your government-issued ID (e.g., National ID card, Passport).
+* Provide accurate information regarding your county, sub-county, and ward.
 
-**5. Rider Fees and Payment**
+**4. Rider Responsibilities**
 
-* You are responsible for paying all fares and any applicable fees associated with your rides.
-* Fares are calculated based on distance, time, and prevailing rates displayed in the App.
-* You agree to the available payment methods offered by the App.
+As a Rider, you are responsible for:
 
-**6. Cancellations**
+* Maintaining the accuracy of your registration information.
+* Arriving at designated pick-up locations on time.
+* Treating our users with respect and courtesy.
+* Paying for our subscription fees in accordance with the App's fare structure.
+* Complying with all applicable laws and regulations while using the Services.
+* Not using the Services for any illegal or unethical purposes.
 
-* You may cancel a ride request before a driver is assigned.
-* Cancellation fees may apply as per our cancellation policy displayed in the App.
+**5. Data Privacy**
 
-**7. Availability and Disclaimer**
+We respect your privacy and are committed to protecting your personal information. Please refer to our separate Privacy Policy for details on how we collect, use, and disclose your information.
 
-* Fikisha Riders is a platform connecting riders and drivers. We do not guarantee the availability of drivers or the immediate fulfillment of ride requests.
-* We make no warranties, express or implied, regarding the safety or reliability of drivers or the services provided.
+**6. Intellectual Property**
 
-**8. Limitation of Liability**
+The App and Services contain intellectual property owned by Fikisha Mashinani or its licensors. You are granted a non-exclusive, non-transferable license to use the App and Services for your personal, non-commercial use only. 
 
-* Fikisha Riders shall not be liable for any damages arising from your use of the App, including personal injury, property damage, or loss of data.
-* You agree to indemnify and hold harmless Fikisha Riders from any claims or liabilities arising from your use of the App.
+**7. Termination**
 
-**9. Termination**
+We may terminate your access to the Services at any time, for any reason, with or without notice. You may also terminate your use of the Services at any time.
 
-* We may terminate your access to the App for any reason, with or without notice.
-* You may terminate your use of the App at any time.
+**8. Disclaimer**
 
-**10. Governing Law**
+The Services are provided "as is" and without warranties of any kind, express or implied. We disclaim all warranties, including, but not limited to, warranties of merchantability, fitness for a particular purpose, and non-infringement.
 
-These Terms shall be governed by and construed in accordance with the laws of Kenya.
+**9. Limitation of Liability**
 
-**11. Dispute Resolution**
+To the maximum extent permitted by law, Fikisha Mashinani shall not be liable for any direct, indirect, incidental, consequential, or special damages arising out of or in any way connected with your use of the Services.
 
-Any dispute arising out of or relating to these Terms shall be settled by [Dispute Resolution Mechanism - e.g., arbitration in Kenya].  
+**10. Dispute Resolution**
+
+Any dispute arising out of or relating to these Terms shall be governed by and construed in accordance with the laws of Kenya.
+
+**11. Governing Law**
+
+These Terms and your use of the Services shall be governed by and construed in accordance with the laws of Kenya.
 
 **12. Entire Agreement**
 
-These Terms constitute the entire agreement between you and Fikisha Riders regarding your use of the App.
+These Terms constitute the entire agreement between you and Fikisha Mashinani regarding your use of the Services and supersede all prior or contemporaneous communications and proposals, whether oral or written.
 
-**13. Updates to Terms**
+**13. Amendment**
 
-Fikisha Riders may update these Terms at any time by posting the revised version on the App. You are responsible for staying informed of any changes. Your continued use of the App following the posting of revised Terms constitutes your acceptance of the revised Terms.
+We may amend these Terms at any time by posting the amended terms on the App. Your continued use of the Services after the amended terms are posted constitutes your acceptance of the amended terms.
 
-**14. Contact Us**
+**14. Severability**
+
+If any provision of these Terms is held to be invalid or unenforceable, such provision shall be struck and the remaining provisions shall remain in full force and effect.
+
+**15. Contact Us**
 
 If you have any questions about these Terms, please contact us at sammy9072@gmail.com.
